@@ -31,23 +31,23 @@ I combine front-end and back-end skills with strong problem-solving, AI-powered 
 
 ### 🎬 BlueVault — Movie Discovery App  
 Responsive web app to search and explore movie details via third-party API.  
-[🔗 Live Demo](https://example.com) | [💻 Source Code](https://github.com/Unathi-Monjane/bluevault)  
+[Bluevault](https://unathi-monjane.github.io/bluevault)| [💻 Source Code](https://github.com/Unathi-Monjane/bluevault)  
 
 ### 👕 Clothify — Clothing E-commerce Store  
 Full-featured online store with cart, checkout, and payment integration.  
-[🔗 Live Demo](https://example.com) | [💻 Source Code](https://github.com/Unathi-Monjane/clothify)  
+[Clothify](https://unathi-monjane.github.io/clothify) | [💻 Source Code](https://github.com/Unathi-Monjane/clothify)  
 
 ### ⏱ EduTime — Productivity Timer (Pomodoro)  
 Time management app to improve focus and workflow.  
-[🔗 Live Demo](https://example.com) | [💻 Source Code](https://github.com/Unathi-Monjane/edutime)  
+[Edutime](https://unathi-monjane.github.io/edutime) | [💻 Source Code](https://github.com/Unathi-Monjane/edutime)  
 
 ### 📝 TaskNet — Notepad App  
 Minimal web-based note-taking tool with save/edit/delete.  
-[🔗 Live Demo](https://example.com) | [💻 Source Code](https://github.com/Unathi-Monjane/tasknet)  
+[Tasknet](https://unathi-monjane.github.io/tasknet) | [💻 Source Code](https://github.com/Unathi-Monjane/tasknet)  
 
 ### 🌤 Weatherly — Weather Forecast App  
 Displays real-time weather updates by location search.  
-[🔗 Live Demo](https://example.com) | [💻 Source Code](https://github.com/Unathi-Monjane/weatherly)  
+[Weatherly](https://unathi-monjane.github.io/weatherly) | [💻 Source Code](https://github.com/Unathi-Monjane/weatherly)  
 
 ---
 
