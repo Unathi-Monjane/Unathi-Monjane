@@ -1,8 +1,11 @@
 # 👋 Hi, I’m Unathi Monjane  
+![Portfolio Badge](https://img.shields.io/badge/Portfolio-View-red?style=for-the-badge&logo=github)  
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 **Full Stack Developer | AI & IT Process Support Associate**  
 
 📍 Johannesburg, South Africa  
-📧 [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/unathi-monjane-832a38240)  
+📧 [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/unathi-monjane-832a38240) | 🌐 [Portfolio](https://Unathi-Monjane.github.io/unathi-monjane-portfolio)  
 
 ---
 
@@ -29,9 +32,13 @@ I combine front-end and back-end skills with strong problem-solving, AI-powered 
 
 ## 🚀 Featured Projects  
 
+### 🌐 Portfolio Website  
+My personal portfolio showcasing my skills, projects, certifications, and services.  
+[View Portfolio](https://yourusername.github.io/your-repo-name)  
+
 ### 🎬 BlueVault — Movie Discovery App  
 Responsive web app to search and explore movie details via third-party API.  
-[Bluevault](https://unathi-monjane.github.io/bluevault)| [💻 Source Code](https://github.com/Unathi-Monjane/bluevault)  
+[Bluevault](https://unathi-monjane.github.io/bluevault) | [💻 Source Code](https://github.com/Unathi-Monjane/bluevault)  
 
 ### 👕 Clothify — Clothing E-commerce Store  
 Full-featured online store with cart, checkout, and payment integration.  
@@ -60,4 +67,5 @@ Displays real-time weather updates by location search.
 📧 **Email:** [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/unathi-monjane-832a38240](https://www.linkedin.com/in/unathi-monjane-832a38240)  
 
-💼 *Open to freelance projects & collaborations.*
+💼 *Open to freelance projects & collaborations.*  
+
