@@ -31,7 +31,7 @@ I combine front-end and back-end skills with strong problem-solving, AI-powered 
 
 ### 🌐 Portfolio Website  
 My personal portfolio showcasing my skills, projects, certifications, and services.  
-[View Portfolio](https://yourusername.github.io/your-repo-name)  
+[View Portfolio](https://Unathi-Monjane.github.io/unathi-monjane-portfolio)
 
 ### 🎬 BlueVault — Movie Discovery App  
 Responsive web app to search and explore movie details via third-party API.  
