@@ -1,7 +1,4 @@
 # 👋 Hi, I’m Unathi Monjane  
-![Portfolio Badge](https://img.shields.io/badge/Portfolio-View-red?style=for-the-badge&logo=github)  
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 **Full Stack Developer | AI & IT Process Support Associate**  
 
 📍 Johannesburg, South Africa  
@@ -60,6 +57,15 @@ Displays real-time weather updates by location search.
 
 ## 📈 GitHub Stats  
 ![Unathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unathi-Monjane&show_icons=true&theme=radical)  
+
+---
+
+## 📫 How to Reach Me  
+📧 **Email:** [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/unathi-monjane-832a38240](https://www.linkedin.com/in/unathi-monjane-832a38240)  
+
+💼 *Open to freelance projects & collaborations.*  
+
 
 ---
 
