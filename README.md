@@ -8,9 +8,12 @@
 
 ## 💡 About Me  
 I’m a certified **Full Stack Developer** (FNB App Academy, IT Varsity) and **AI & IT Process Support Associate** with a passion for building fast, responsive, and user-friendly web applications.  
+
 I help **businesses, schools, and organizations** create modern websites and digital tools that drive results — from e-commerce stores to custom productivity apps.  
 
 I combine front-end and back-end skills with strong problem-solving, AI-powered workflows, and IT support expertise.  
+
+💡 *Co-founder of [CodeCraft Africa](https://unathi-monjane.github.io/codecraft-africa-portfolio), a business that builds modern websites and digital solutions for companies across Africa.*  
 
 ---
 
@@ -64,14 +67,5 @@ Displays real-time weather updates by location search.
 📧 **Email:** [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/unathi-monjane-832a38240](https://www.linkedin.com/in/unathi-monjane-832a38240)  
 
-💼 *Open to freelance projects & collaborations.*  
-
-
----
-
-## 📫 How to Reach Me  
-📧 **Email:** [unathimonjane14@gmail.com](mailto:unathimonjane14@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/unathi-monjane-832a38240](https://www.linkedin.com/in/unathi-monjane-832a38240)  
-
-💼 *Open to freelance projects & collaborations.*  
+💼 *Open to freelance projects, collaborations, and working with businesses through CodeCraft Africa.*  
 
